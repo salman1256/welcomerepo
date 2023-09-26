@@ -1,0 +1,15 @@
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\bin\Debug\net6.0\SimpleConApp.exe
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\bin\Debug\net6.0\SimpleConApp.deps.json
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\bin\Debug\net6.0\SimpleConApp.runtimeconfig.json
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\bin\Debug\net6.0\SimpleConApp.dll
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\bin\Debug\net6.0\SimpleConApp.pdb
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\SimpleConApp.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\SimpleConApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\SimpleConApp.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\SimpleConApp.AssemblyInfo.cs
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\SimpleConApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\SimpleConApp.dll
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\refint\SimpleConApp.dll
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\SimpleConApp.pdb
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\SimpleConApp.genruntimeconfig.cache
+D:\Mphasis\Phase-4\Day-9\Recap\SimpleConApp\obj\Debug\net6.0\ref\SimpleConApp.dll
